@@ -15,7 +15,7 @@
 
    ## Screenshot
 
-   ![ResumePerfector](ResumePerfector.png)
+   ![ResumePerfector](NextStepAI.png)
 
    ## Demo
 
